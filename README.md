@@ -1,1 +1,1 @@
-# Store.github.io
+# SmartTech.github.io
